@@ -1,5 +1,5 @@
 # Database-Management-System
-Warehouse Management System
+Wholesale Management System
 Integrated Python and mysql to create this system.
 Fetaures:
 >Login modules for customer and admin
